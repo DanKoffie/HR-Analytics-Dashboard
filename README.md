@@ -1,7 +1,7 @@
 # HR-Analytics-Dashboard
 
 
-The document is a a comprehensive human resources analysis report created using Power BI Desktop. It includes various metrics and data visualizations pertinent to employee demographics and statistics within an organization. Key elements in the report include total number of employees, attrition numbers, active employee count, attrition rate, average age of employees, gender distribution, age groups, educational background, marital status, department-wise distribution, job roles, and attrition rates segmented by department, gender, and age groups. Additionally, it covers aspects like environmental satisfaction and job satisfaction ratings across different job roles. The document is a detailed resource for understanding workforce dynamics and HR-related metrics in the organization.
+The document is a a comprehensive human resources analysis report created using Power BI Desktop. It includes various metrics and data visualizations pertinent to employee demographics and statistics within an organization. Key elements in the report include total number of employees, attrition numbers, active employee count, attrition rate, average age of employees, gender distribution, age groups, marital status, department-wise distribution, job roles, and attrition rates segmented by department, gender, and age groups. Additionally, it covers aspects like environmental satisfaction and job satisfaction ratings across different job roles. The document is a detailed resource for understanding workforce dynamics and HR-related metrics in the organization.
 
 
 
@@ -12,5 +12,6 @@ The document is a a comprehensive human resources analysis report created using 
 
 
 #Metrics and Analytics view of the Dashboard (Page-2)
+![Analysis](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/238898d1-6cb2-4a6c-9f6d-4167ac600cf1)
 
-![HR Analytics Dashboard2](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/6c54e604-f0a6-4385-9053-ee2bf54fe5d2)
+
