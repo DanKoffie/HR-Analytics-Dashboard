@@ -28,12 +28,13 @@ After thorough analysis, I created an interactive dashboard that showcased:
 
 This is a two page dashboard showing the general overview and the HR Analysis in details. 
 
-#Dashboard Overview (Page-1) 
+# Dashboard Overview (Page-1) 
 
-![HR Analytics Dashboard1](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/b8b874bb-f534-4a6f-9def-339806bdb62c)
+![Overvieww](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/c25ef0f9-8b75-457b-a080-9528d64a9f80)
 
 
 #Metrics and Analytics view of the Dashboard (Page-2)
-![Analysis](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/238898d1-6cb2-4a6c-9f6d-4167ac600cf1)
 
+![p2PNG](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/499346c2-4bb1-4977-ae65-fb0273014338)
 
+Get the interactive dashboard here 👉 https://app.powerbi.com/view?r=eyJrIjoiZWUzMmViOGQtN2FlOC00OTA0LWI1Y2UtYjdjZjc0NTM2M2RjIiwidCI6ImNkMWJhZDc3LTZhZGYtNDMyMS05MjQwLWIyODhlZGRlNDU5MiJ9&embedImagePlaceholder=true&pageName=ReportSection
