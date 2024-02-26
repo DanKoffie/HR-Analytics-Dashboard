@@ -33,7 +33,7 @@ This is a two page dashboard showing the general overview and the HR Analysis in
 ![Overvieww](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/c25ef0f9-8b75-457b-a080-9528d64a9f80)
 
 
-#Metrics and Analytics view of the Dashboard (Page-2)
+# Metrics and Analytics view of the Dashboard (Page-2)
 
 ![p2PNG](https://github.com/DanKoffie/HR-Analytics-Dashboard/assets/131831718/499346c2-4bb1-4977-ae65-fb0273014338)
 
